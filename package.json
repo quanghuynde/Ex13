@@ -1,0 +1,13 @@
+{
+    "name": "Ex13",
+    "version": "1.0.0",
+    "description": "Connect MongoDB with NodeJS",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.21.2",
+        "mongodb": "^6.21.0"
+    }
+}
